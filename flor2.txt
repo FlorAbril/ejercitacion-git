@@ -1,3 +1,5 @@
 archivo 2
 linea añadida
+linea añadida 2
+linea añadida 3
 Segunda línea, Esteban.
